@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['gametimer',['GameTimer',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_game_timer.html',1,'hu::ixwyow::minesweeper::logic']]],
+  ['gametimer',['GameTimer',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_game_timer.html#ad589771f361692b50756c070d9e8d258',1,'hu::ixwyow::minesweeper::logic::GameTimer']]],
+  ['getbombcount',['getBombCount',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#a4d6432229282388e07eabbc951357a41',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getbombsremaining',['getBombsRemaining',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#a935bd31259f3cf5e3edfe4a6052a0e6a',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getcell',['getCell',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#a55b7f8ed21d9593881b7eed7a91e6a34',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getcols',['getCols',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#afac6afbe59c1c18fde0cee40d940b28a',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getdifficulty',['getDifficulty',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#adf53c1e7e8d0eb2c5abd707347465a41',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getflagcount',['getFlagCount',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#a1faaa94e6d014d2106a07a6afeb9c11f',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getframe',['getFrame',['../classhu_1_1ixwyow_1_1minesweeper_1_1_application.html#aaa559b86d6d431984a76fb64786ddf27',1,'hu::ixwyow::minesweeper::Application']]],
+  ['getgameboard',['getGameBoard',['../classhu_1_1ixwyow_1_1minesweeper_1_1_application.html#a06b0b53c7bd08f4b44a85024e00c1226',1,'hu::ixwyow::minesweeper::Application']]],
+  ['getinstance',['getInstance',['../classhu_1_1ixwyow_1_1minesweeper_1_1_application.html#a1e54d27f8c93c4784fb15a5f2cb097ab',1,'hu::ixwyow::minesweeper::Application']]],
+  ['getneighbors',['getNeighbors',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_cell.html#aa5da53fe3a469643664a1ae23cc46766',1,'hu::ixwyow::minesweeper::logic::Cell']]],
+  ['getneighbourbombcount',['getNeighbourBombCount',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_cell.html#a6d3487a07c7d228a5159d5ae1d1791df',1,'hu::ixwyow::minesweeper::logic::Cell']]],
+  ['getopenedcellcount',['getOpenedCellCount',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#af756fa29d0ea785928c1646ec969e428',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getrows',['getRows',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#adc60bb80f76030d0ee5fb2d5c2f22594',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getscores',['getScores',['../classhu_1_1ixwyow_1_1minesweeper_1_1_application.html#a1b33f933fe70b6ad62223c7dc09c700c',1,'hu::ixwyow::minesweeper::Application']]],
+  ['gettime',['getTime',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_board.html#abde4813ac7ae22ccd75f2d137674cbaa',1,'hu::ixwyow::minesweeper::logic::Board']]],
+  ['getview',['getView',['../classhu_1_1ixwyow_1_1minesweeper_1_1logic_1_1_model.html#ad6f7e986187d927e6cc2c46db3f6c307',1,'hu::ixwyow::minesweeper::logic::Model']]]
+];

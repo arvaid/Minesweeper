@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/hu/ixwyow/minesweeper/Application.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/events/AboutGameAction.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/events/AppWindowAdapter.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/events/CellViewMouseAdapter.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/events/ScoreBoardAction.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/logic/Board.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/logic/Cell.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/logic/GameTimer.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/logic/Model.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/ui/BoardView.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/ui/CellView.java=UTF-8
+encoding//src/hu/ixwyow/minesweeper/ui/View.java=UTF-8
